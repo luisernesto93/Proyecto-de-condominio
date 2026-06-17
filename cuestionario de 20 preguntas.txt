@@ -1,0 +1,128 @@
+1. ¿Desea que cada propietario o residente tenga acceso a un portal web para consultar su información?
+
+Sí
+No
+
+2. ¿Qué información debe poder consultar un propietario desde su cuenta?
+
+Estado de cuenta
+Pagos realizados
+Deudas pendientes
+Reservas de áreas comunes
+Comunicados
+Documentos del condominio
+Gestión de Áreas Comunes
+
+3. ¿Qué áreas comunes deben administrarse mediante reservas?
+
+Piscina
+Churrasquera
+Salón de eventos
+Canchas deportivas
+Gimnasio
+Otros
+
+4. ¿Las reservas requieren aprobación previa de la administración?
+
+Sí
+No
+
+5. ¿Desea establecer límites de uso por propietario (cantidad de reservas por mes)?
+
+Sí
+No
+
+6. ¿Qué conceptos deben cobrarse a los propietarios?
+
+Expensas
+Agua
+Energía eléctrica
+Multas
+Reservas de áreas comunes
+Parqueos
+Otros
+
+7. ¿Desea generar automáticamente las expensas mensuales?
+
+Sí
+No
+
+8. ¿Los propietarios podrán adjuntar comprobantes de pago?
+
+Sí
+No
+
+9. ¿Desea registrar todos los ingresos del condominio?
+
+Sí
+No
+
+10. ¿Desea registrar todos los egresos o gastos operativos del condominio?
+
+Sí
+No
+
+11. ¿Qué tipos de gastos deben controlarse?
+
+Material de limpieza
+Servicios básicos
+Seguridad
+Jardinería
+Mantenimiento
+Reparaciones
+Honorarios administrativos
+Otros
+
+12. ¿Desea adjuntar facturas, recibos o documentos de respaldo para cada gasto?
+
+Sí
+No
+
+13. ¿Necesita controlar un presupuesto mensual o anual del condominio?
+
+Sí
+No
+
+14. ¿Desea visualizar un balance financiero general del condominio?
+
+Sí
+No
+
+15. ¿Qué indicadores financieros considera importantes para el directorio?
+
+Total de ingresos
+Total de gastos
+Morosidad
+Flujo de caja
+Estado de cuentas por cobrar
+Estado de cuentas por pagar
+Gestión de Proveedores
+
+16. ¿Desea registrar proveedores y contratistas dentro del sistema?
+
+Sí
+No
+
+17. ¿Desea controlar pagos pendientes y pagos realizados a proveedores?
+
+Sí
+No
+
+18. ¿Necesita evaluar o calificar proveedores según el servicio prestado?
+
+Sí
+No
+
+19. ¿Qué reportes considera indispensables?
+
+Estado financiero general
+Balance de ingresos y egresos
+Morosidad por propietario
+Pagos a proveedores
+Reservas de ambientes
+Gastos operativos
+Otros
+
+20. ¿Qué otras funcionalidades considera importantes para mejorar la administración del condominio?
+
+Respuesta larga
