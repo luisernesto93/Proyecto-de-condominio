@@ -1,0 +1,11 @@
+catalogo de servicios
+sistema contable d despesas
+agua, luz
+control para proveeedor 
+pagos de proveedores
+ingreso y egreso
+panel administrativo
+categorizar por tipo de condominio
+agendamiento 
+crear cuestionario de 20 preguntas
+para validar
