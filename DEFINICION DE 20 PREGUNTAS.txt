@@ -1,0 +1,153 @@
+# Cuestionario de Levantamiento de Requerimientos
+
+## Sistema Web de Administración de Condominios
+
+### 1. ¿Cuáles son los principales problemas o dificultades que desea solucionar con este sistema?
+
+(Respuesta larga)
+
+### 2. ¿Cuáles considera que son los módulos más importantes para la primera versión del sistema?
+
+* Gestión de propietarios
+* Reservas de áreas comunes
+* Cobros y expensas
+* Agua y energía eléctrica
+* Ingresos y egresos
+* Proveedores
+* Reportes financieros
+* Portal del propietario
+* Otro
+
+### 3. ¿Desea que cada propietario tenga acceso a un portal web para consultar su información?
+
+* Sí
+* No
+
+### 4. ¿Qué información debería poder consultar un propietario desde su cuenta?
+
+* Estado de cuenta
+* Pagos realizados
+* Deudas pendientes
+* Reservas
+* Comunicados
+* Documentos del condominio
+* Consumo de agua y energía
+* Otros
+
+### 5. ¿Qué áreas comunes desea administrar mediante reservas?
+
+* Piscina
+* Churrasquera
+* Salón de eventos
+* Canchas deportivas
+* Gimnasio
+* Parqueos
+* Otros
+
+### 6. ¿Cómo debe funcionar el proceso de reserva de áreas comunes?
+
+* Reserva automática
+* Requiere aprobación administrativa
+* Depende del ambiente reservado
+
+### 7. ¿Qué conceptos deben cobrarse a los propietarios mediante el sistema?
+
+* Expensas
+* Agua
+* Energía eléctrica
+* Multas
+* Reservas de ambientes
+* Parqueos
+* Otros
+
+### 8. ¿Cómo desea registrar el consumo de agua y energía eléctrica?
+
+* Cobro fijo mensual
+* Lectura individual por unidad
+* División proporcional automática
+* Otro
+
+### 9. ¿Desea que el sistema genere automáticamente expensas, servicios y otros cobros mensuales?
+
+* Sí
+* No
+
+### 10. ¿Qué métodos de pago desea habilitar?
+
+* QR
+* Transferencia bancaria
+* Efectivo
+* Cheque
+* Otros
+
+### 11. ¿Desea que los propietarios puedan subir comprobantes de pago para su validación?
+
+* Sí
+* No
+
+### 12. ¿Cómo prefiere gestionar la validación de pagos electrónicos?
+
+* Validación manual por administración
+* Integración automática con QR o banca digital
+* Ambas opciones
+
+### 13. ¿Qué tipos de gastos operativos desea controlar?
+
+* Limpieza
+* Seguridad
+* Jardinería
+* Mantenimiento
+* Reparaciones
+* Servicios básicos
+* Honorarios administrativos
+* Caja chica
+* Otros
+
+### 14. ¿Desea adjuntar facturas, recibos o documentos de respaldo a cada gasto registrado?
+
+* Sí
+* No
+
+### 15. ¿Qué información financiera considera indispensable visualizar en el panel administrativo?
+
+* Balance general
+* Flujo de caja
+* Ingresos y egresos
+* Morosidad
+* Cuentas por cobrar
+* Cuentas por pagar
+* Presupuesto ejecutado
+
+### 16. ¿Desea registrar proveedores y controlar pagos pendientes, pagos realizados y contratos asociados?
+
+* Sí
+* No
+
+### 17. ¿Qué reportes considera prioritarios para la administración y el directorio?
+
+* Balance general
+* Estado de resultados
+* Morosidad
+* Ingresos y egresos
+* Pagos a proveedores
+* Gastos operativos
+* Reservas de ambientes
+* Otros
+
+### 18. ¿Qué tipos de usuarios utilizarán el sistema y qué nivel de acceso deberían tener?
+
+(Respuesta larga)
+
+### 19. ¿Desea que el sistema envíe notificaciones automáticas?
+
+* Recordatorios de pago
+* Vencimientos
+* Reservas aprobadas
+* Multas
+* Comunicados
+* WhatsApp
+* Correo electrónico
+
+### 20. Indique las 5 funcionalidades más importantes que deberían desarrollarse en la primera fase del proyecto.
+
+(Respuesta larga)
