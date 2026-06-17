@@ -8,4 +8,28 @@ Preguntas
 6.- Cuando un vecino se retrasa con su pago, como realiza ese control, tiene algun cuaderno, pizarra o archivo excel.
 7.- Existe alguna sancion si se demora en realziar algun pago.
 8.- Si un vecino les pide un contacto de algnos de los proveedores (jardinero, electricista, etc) tiene alguna lsta de los proveedores que realizan trabajos generales en el condominio.
-9.- 
+
+9.- Si un proveedor les hace un trabajo grande y le pagan en partes (ej. 50% adelanto y 50% al finalizar), ¿cómo llevan el control de cuánto le han pagado y cuánto le deben todavía para no pagarle de más por error?
+
+10.- ¿En qué lugar anotan hoy qué vecino va a usar el salón de eventos o la churrasquera el fin de semana? (¿Cuaderno, pizarra, chat de WhatsApp?).
+
+11.- Al prestar un área común, ¿cómo controlan el dinero de la garantía para asegurarse de que el vecino devuelva el lugar limpio y sin daños?
+
+12.- ¿Qué pasa si un vecino reserva la churrasquera pero a última hora no la usa y no avisa? ¿Tienen alguna regla para eso hoy en día?
+
+13.- Si el condominio se divide por bloques o sectores (ej. Bloque A y Bloque B, o casas y departamentos), ¿hay gastos que solo paga un sector y el otro no? ¿Cómo separan eso en su Excel o cuaderno?
+
+14.- Cuando compra materiales para el condominio (ej. focos, bolsas de basura) o le paga un servicio a un proveedor, ¿dónde archiva físicamente ese recibo o factura para que no se le pierda o traspapele?
+
+15.- ¿Se han retrasado alguna vez en pagarle a un proveedor fijo (como la empresa de seguridad, de limpieza o el mantenimiento de los ascensores) por olvidar la fecha de vencimiento del recibo?
+
+16.- Si la directiva del condominio le pide en este mismo instante un informe de cuánto dinero exacto hay disponible en caja (restando los gastos del mes), ¿cuánto tardaría en calcular ese número con sus cuadernos o Excel actuales?
+
+17.- En el día a día, ¿cuántas personas de la administración tienen permitido registrar ingresos, modificar el Excel o escribir en los cuadernos de cuentas? ¿Ha pasado alguna vez que alguien borró o cambió un dato por error?
+
+
+18.- ¿Qué tan seguido los vecinos lo buscan o lo llaman solo para pedirle copias de sus recibos viejos, preguntar si tienen deudas pendientes o pedir reglamentos del condominio?
+
+19.- Además de las expensas, el agua y la luz, ¿qué otros cobros extras tienen que registrar a mano durante el mes? (Ej. alquiler de parqueos extras, multas por ruido, cobro por usar la piscina o etc).
+
+20.- Si un propietario viene muy enojado a reclamar de mala manera que "él ya pagó hace meses y ustedes no lo anotaron", ¿cuánto tiempo y esfuerzo les toma buscar en los registros tradicionales para demostrarle la verdad?
