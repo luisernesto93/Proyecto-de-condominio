@@ -1,35 +1,45 @@
-Preguntas
+1.- Para agilizar el cierre de mes, ¿cómo desea que el sistema procese y agrupe los recibos, facturas y gastos operativos? ¿Qué reportes automáticos debería generar el software al finalizar el mes?
 
-1.- Qué informacion es la que mas miedo le da perder, y en que lo tiene esa informacion cuaderno, excel.
-2.- Cuando hace cierre de mes, cuantas horas se demora y que cosas debe buscar para recopilar esa informacion "recibo, facturas, etc".
-3.- Que tipos de Pagos Recibe "QR, Efectivo, Transferencia o cheque"
-4.- Tiene algun problema de generar esos tipos de pagos Electronicos "QR, Transferencia" y tiene acceso a esa cuenta para revisar si se realizo el deposito correcto.
-5.- Como realizan el calculo, para realizar el cobro de los servicios basicos. Y cuando se demora al realizar ese trabajo.
-6.- Cuando un vecino se retrasa con su pago, como realiza ese control, tiene algun cuaderno, pizarra o archivo excel.
-7.- Existe alguna sancion si se demora en realziar algun pago.
-8.- Si un vecino les pide un contacto de algnos de los proveedores (jardinero, electricista, etc) tiene alguna lsta de los proveedores que realizan trabajos generales en el condominio.
+2.- Con respecto a los pagos por QR, Efectivo, Transferencia o Cheque, ¿desea que el residente pueda subir su propio comprobante digital al sistema para que usted solo tenga que revisarlo y aprobarlo?
 
-9.- Si un proveedor les hace un trabajo grande y le pagan en partes (ej. 50% adelanto y 50% al finalizar), ¿cómo llevan el control de cuánto le han pagado y cuánto le deben todavía para no pagarle de más por error?
+3.- Para evitar errores en las cuentas bancarias, ¿el sistema debería conectarse directamente para validar los pagos electrónicos (QR/Transferencia) o prefiere registrar y confirmar cada depósito de forma manual en el panel?
 
-10.- ¿En qué lugar anotan hoy qué vecino va a usar el salón de eventos o la churrasquera el fin de semana? (¿Cuaderno, pizarra, chat de WhatsApp?).
+4.- Para automatizar el cobro de morosos, ¿cómo desea que el sistema controle los retrasos? ¿Prefiere que el software envíe alertas de deuda automáticas a un estado de cuenta digital por vecino?
 
-11.- Al prestar un área común, ¿cómo controlan el dinero de la garantía para asegurarse de que el vecino devuelva el lugar limpio y sin daños?
+5.- En cuanto a las sanciones por atrasos, ¿qué reglas o fórmulas automáticas de multas o intereses desea que programemos en el sistema para que se calculen solas cuando un vecino no pague a tiempo?
 
-12.- ¿Qué pasa si un vecino reserva la churrasquera pero a última hora no la usa y no avisa? ¿Tienen alguna regla para eso hoy en día?
+6.- Si la directiva del condominio le pide en un instante un informe de cuánto dinero exacto hay disponible en caja (restando los gastos del mes), ¿cómo le gustaría que el sistema le muestre este balance financiero en pantalla?
 
-13.- Si el condominio se divide por bloques o sectores (ej. Bloque A y Bloque B, o casas y departamentos), ¿hay gastos que solo paga un sector y el otro no? ¿Cómo separan eso en su Excel o cuaderno?
+7.- Para el cobro de agua y luz, ¿desea que el sistema le permita registrar la factura general del condominio y dividir el monto automáticamente entre todos los departamentos, o prefiere asignar un cobro fijo mensual por este concepto?
 
-14.- Cuando compra materiales para el condominio (ej. focos, bolsas de basura) o le paga un servicio a un proveedor, ¿dónde archiva físicamente ese recibo o factura para que no se le pierda o traspapele?
+8.- ¿Desea que el sistema genere gráficos del historial de consumo de agua/luz para que los propietarios puedan revisar si su gasto ha subido o bajado en los últimos meses desde su propia cuenta?
 
-15.- ¿Se han retrasado alguna vez en pagarle a un proveedor fijo (como la empresa de seguridad, de limpieza o el mantenimiento de los ascensores) por olvidar la fecha de vencimiento del recibo?
+9.- Para el Catálogo de Servicios, ¿desea una sección donde los vecinos puedan consultar de forma independiente los contactos de los proveedores aprobados (jardinero, electricista, etc.) sin tener que llamarlo a usted?
 
-16.- Si la directiva del condominio le pide en este mismo instante un informe de cuánto dinero exacto hay disponible en caja (restando los gastos del mes), ¿cuánto tardaría en calcular ese número con sus cuadernos o Excel actuales?
+10.- Para el control de trabajos grandes pagados en partes (ej. 50% adelanto y 50% saldo), ¿cómo desea que el panel de proveedores le muestre las cuentas por pagar y los saldos pendientes con cada contratista?
 
-17.- En el día a día, ¿cuántas personas de la administración tienen permitido registrar ingresos, modificar el Excel o escribir en los cuadernos de cuentas? ¿Ha pasado alguna vez que alguien borró o cambió un dato por error?
+11.- Para evitar que las facturas y recibos de compras (focos, bolsas, etc.) se traspapelen, ¿desea que el sistema le permita tomar una foto o subir el archivo digital de la factura para que quede guardado como respaldo de cada egreso?
+
+12.- Para evitar retrasos en los pagos mensuales fijos (seguridad, ascensores, limpieza), ¿desea que el panel administrativo le muestre un calendario de alertas con los próximos vencimientos de facturas?
+
+13.- Para el salón de eventos o la churrasquera, ¿desea un calendario digital donde el propio vecino vea los días disponibles y haga su reserva, bloqueando automáticamente la fecha para evitar que se cruce con otro residente?
+
+14.- En el control de garantías por áreas comunes, ¿cómo desea que el sistema registre si el dinero ya fue entregado y si el espacio fue devuelto en buen estado antes de liberar el depósito?
+
+15.- Para los vecinos que reservan y cancelan a última hora, ¿qué reglas de penalización digital desea establecer en el software (ej. bloquear reservas por el resto del mes o cobrar un recargo automático)?
 
 
-18.- ¿Qué tan seguido los vecinos lo buscan o lo llaman solo para pedirle copias de sus recibos viejos, preguntar si tienen deudas pendientes o pedir reglamentos del condominio?
+16.- Para la categorización por bloques (Bloque A, Bloque B, casas, departamentos), ¿cómo desea que el sistema divida los gastos comunes? ¿El software debe permitirle marcar a qué sectores específicos aplica un gasto para que lo prorratee de forma automática?
 
-19.- Además de las expensas, el agua y la luz, ¿qué otros cobros extras tienen que registrar a mano durante el mes? (Ej. alquiler de parqueos extras, multas por ruido, cobro por usar la piscina o etc).
+17.- Para la seguridad del panel administrativo, ¿qué niveles de acceso o permisos desea configurar para las personas que meten mano al sistema? ¿Quiénes podrán modificar datos y quiénes solo podrán visualizar la información?
 
-20.- Si un propietario viene muy enojado a reclamar de mala manera que "él ya pagó hace meses y ustedes no lo anotaron", ¿cuánto tiempo y esfuerzo les toma buscar en los registros tradicionales para demostrarle la verdad?
+18.- Para reducir las llamadas molestas de los vecinos pidiendo copias de recibos viejos, ¿desea que cada residente tenga un usuario y contraseña para entrar a un portal web donde puedan descargar de forma independiente sus estados de cuenta históricos y reglamentos?
+
+19.- Además de expensas, agua y luz, ¿qué otros conceptos específicos (multas por ruido, alquiler de parqueos extras) desea que el sistema tenga preconfigurados para agregarlos al cobro del mes con un solo clic?
+
+20.- Para la contabilidad de egresos, ¿desea que el sistema controle un fondo fijo de "Caja Chica" para gastos menores diarios (como comprar un candado o pagar un taxi), separándolo de la cuenta bancaria principal del condominio?
+
+
+21.- En la parte contable de ingresos, ¿cómo desea que el sistema maneje los recibos de pago? ¿Necesita que el software genere facturas electrónicas integradas (con normativa de Impuestos Nacionales) o solo recibos internos de administración con validez interna?
+
+22.- Para el control general del sistema contable, ¿desea que el panel administrativo genere un historial de auditoría? Es decir, un registro oculto que le muestre a usted exactamente qué usuario hizo un cambio, qué cobro modificó y a qué hora lo hizo.
